@@ -1,2 +1,2 @@
 # m2bosh
-xmpp bosh for mongrel2
+xmpp bosh handler for mongrel2
